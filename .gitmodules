@@ -1,0 +1,3 @@
+[submodule "Basic/corda-research"]
+	path = Basic/corda-research
+	url = https://github.com/diggluekeishikubo/corda-research.git
